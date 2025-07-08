@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class MyTestCases {
-
+//mar7ba
 	WebDriver driver = new ChromeDriver();
 	String theURL = "https://automationteststore.com/";
 	String SignupPage = "https://automationteststore.com/index.php?rt=account/create";
