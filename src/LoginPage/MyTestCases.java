@@ -29,7 +29,7 @@ public class MyTestCases {
 		driver.navigate().to(SignupPage);
 		
 		WebElement firstName = driver.findElement(By.xpath("/html/body/div/div[2]/div/div/div/div[1]/form/div[1]/fieldset/div[1]/div/input"));
-		firstName.sendKeys("ahmmad");
+		firstName.sendKeys("hamzeh");
 	}
 
 }
